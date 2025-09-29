@@ -4,6 +4,11 @@
 
 This is an implementation of **Ray Tracing in One Weekend** book.
 
+
+![A simple scene rendered with the Ray Tracer, showing spheres with metal, dielectric, and diffuse materials.](images/render_output.png)
+
+The current output of the ray tracer is a static image file (PPM format)
+
 ---
 
 ## 📦 Getting Started
